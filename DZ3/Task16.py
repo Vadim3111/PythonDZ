@@ -1,5 +1,5 @@
 import random
-from random import randint
+
 num = int(input())
 my_list = []
 for i in range(num):
